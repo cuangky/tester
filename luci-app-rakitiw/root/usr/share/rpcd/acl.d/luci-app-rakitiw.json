@@ -1,0 +1,11 @@
+{
+	"luci-app-rakitiw": {
+		"description": "Grant UCI access for luci-app-rakitiw",
+		"read": {
+			"uci": [ "rakitiw" ]
+		},
+		"write": {
+			"uci": [ "rakitiw" ]
+		}
+	}
+}
