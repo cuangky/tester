@@ -1,3 +1,13 @@
+**Changelog** V1.2.5
+- Fix Mode Pesawat Di Modem HP
+
+**Changelog** V1.2.4
+- Fix Bug
+
+**Changelog** V1.2.3
+- Perbaikan Simpan Saat Edit
+- Penambahan Depends jq
+
 **Changelog** V1.2.2
 - Ganti Tampilan
 - Perbaikan Bug
